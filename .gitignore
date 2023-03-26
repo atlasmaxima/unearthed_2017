@@ -1,0 +1,7 @@
+
+*.csv
+data/
+
+*.pyc
+
+.ipynb_checkpoints/UE_S17_demo_ipython-checkpoint.ipynb
